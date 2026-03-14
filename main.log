@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.28)  23 SEP 2025 19:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.28)  14 MAR 2026 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -459,32 +459,32 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
-1.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+04.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -534,52 +534,46 @@ LaTeX Font Info:    ... okay on input line 81.
 \makeMPintoPDFobject=\count323
 \everyMPtoPDFconversion=\toks32
 )
-Package hyperref Info: Link coloring ON on input line 81.
+Package hyperref Info: Link coloring ON on input line 104.
 \ANDbox=\box66
- (./content-es.tex
+ (./content-en.tex
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 8.
+nput line 9.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 12.
+ input line 13.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 12.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-4.
+n input line 13.
+ (./especialidades-en/investigacion.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd)
+Overfull \hbox (11.38092pt too wide) in paragraph at lines 15--16
+[][] 
+ []
+
+
+Overfull \hbox (11.38092pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
+2.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-6.
+Overfull \hbox (54.06004pt too wide) in paragraph at lines 42--43
+[][] 
+ []
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-36.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-36.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 36.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 36.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 36.
 )
 
 [1
@@ -588,8 +582,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 al/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
 5/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025
 /texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/202
-5/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2025/texmf-dist/
-fonts/enc/dvips/lm/lm-mathsy.enc}]
+5/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2025/texmf-di
+st/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./main.aux)
@@ -599,13 +593,13 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15300 strings out of 473190
- 261325 string characters out of 5715800
- 682695 words of memory out of 5000000
- 38348 multiletter control sequences out of 15000+600000
+ 15307 strings out of 473190
+ 261588 string characters out of 5715800
+ 681693 words of memory out of 5000000
+ 38351 multiletter control sequences out of 15000+600000
  594278 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,713b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,855b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fo
 ntawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fon
@@ -615,7 +609,7 @@ st/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public
 /lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9.
 pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (1 page, 160079 bytes).
+Output written on main.pdf (1 page, 156155 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream

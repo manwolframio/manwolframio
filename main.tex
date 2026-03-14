@@ -1,3 +1,5 @@
+%% txs:///pdflatex | txs:///pdflatex | txs:///pdflatex | txs:///view
+
 \documentclass[10pt, letterpaper]{article}
 
 % --- (mantengo todos los paquetes y configuración que tenías en la plantilla) ---
@@ -64,10 +66,23 @@
 \newenvironment{highlights}{\begin{itemize}[topsep=0.10 cm,parsep=0.10 cm,partopsep=0pt,itemsep=0pt,leftmargin=0.4 cm + 10pt]}{\end{itemize}}
 \newenvironment{highlightsforbulletentries}{\begin{itemize}[topsep=0.10 cm,parsep=0.10 cm,partopsep=0pt,itemsep=0pt,leftmargin=10pt]}{\end{itemize}}
 \newenvironment{onecolentry}{\begin{adjustwidth}{0.2 cm}{0.2 cm}}{\end{adjustwidth}}
-\newenvironment{twocolentry}[2][]{\onecolentry\def\secondColumn{#2}\setcolumnwidth{\fill, 4.5 cm}\begin{paracol}{2}}{\switchcolumn \raggedleft \secondColumn\end{paracol}\endonecolentry}
+
+\newenvironment{twocolentry}[2][]{%
+	\onecolentry
+	\def\secondColumn{#2}
+	\setcolumnwidth{\fill, 5.3 cm}
+	\begin{paracol}{2}
+	}{%
+		\switchcolumn
+		\raggedleft
+		\secondColumn
+	\end{paracol}
+	\endonecolentry
+}
+
 \newenvironment{header}{\setlength{\topsep}{0pt}\par\kern\topsep\centering\linespread{1.5}}{\par\kern\topsep}
 
-\newcommand{\placelastupdatedtext}{\AddToShipoutPictureFG*{\put(\LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},\LenToUnit{\paperheight-1.0 cm}){\vtop{{\null}\makebox[0pt][c]{\small\color{gray}\textit{Last updated in September 2025}\hspace{\widthof{Last updated in September 2025}}}}}}}
+\newcommand{\placelastupdatedtext}{\AddToShipoutPictureFG*{\put(\LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},\LenToUnit{\paperheight-1.0 cm}){\vtop{{\null}\makebox[0pt][c]{\small\color{gray}\textit{Last updated in September 2025}\hspace{\widthof{Last updated in March 2026}}}}}}}
 
 % save the original href command in a new command:
 \let\hrefWithoutArrow\href
@@ -75,8 +90,16 @@
 \renewcommand{\href}[2]{\hrefWithoutArrow{#1}{\ifthenelse{\equal{#2}{}}{ }{#2 }\raisebox{.15ex}{\footnotesize \faExternalLink*}}}
 
 % ========= Selector de idioma =========
-% Usa: pdflatex "\def\LANG{en}\input{cv-base.tex}"  o  "\def\LANG{es}\input{cv-base.tex}"
-\providecommand{\LANG}{es} % por defecto español si no se define desde la CLI
+%\providecommand{\LANG}{es} % por defecto español si no se define desde la CLI
+\providecommand{\LANG}{en} % por defecto español si no se define desde la CLI
+
+% ========= Selector de perfil =========
+% \providecommand{\PROFILE}{redes}
+% \providecommand{\PROFILE}{electronica}
+\providecommand{\PROFILE}{investigacion}
+% \providecommand{\PROFILE}{sistemas}
+% \providecommand{\PROFILE}{generico}
+\usepackage{ifthen}
 
 \begin{document}
 
