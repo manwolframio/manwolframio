@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.28)  14 MAR 2026 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.28)  23 MAR 2026 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -536,22 +536,22 @@ LaTeX Font Info:    ... okay on input line 104.
 )
 Package hyperref Info: Link coloring ON on input line 104.
 \ANDbox=\box66
- (./content-en.tex
+ (./content-es.tex
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 9.
+nput line 8.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 13.
+ input line 12.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 13.
- (./especialidades-en/investigacion.tex
+n input line 12.
+ (./especialidades-es/investigacion.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd)
@@ -560,21 +560,15 @@ Overfull \hbox (11.38092pt too wide) in paragraph at lines 15--16
  []
 
 
-Overfull \hbox (11.38092pt too wide) in paragraph at lines 24--25
+Overfull \hbox (11.38092pt too wide) in paragraph at lines 26--27
 [][] 
  []
 
-)
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-2.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+9.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (54.06004pt too wide) in paragraph at lines 42--43
-[][] 
- []
-
-)
+)))
 
 [1
 
@@ -582,8 +576,8 @@ Overfull \hbox (54.06004pt too wide) in paragraph at lines 42--43
 al/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/202
 5/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025
 /texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/202
-5/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2025/texmf-di
-st/fonts/enc/dvips/lm/lm-ts1.enc}]
+5/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2025/texmf-dist/
+fonts/enc/dvips/lm/lm-mathsy.enc}]
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./main.aux)
@@ -593,13 +587,13 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15307 strings out of 473190
- 261588 string characters out of 5715800
- 681693 words of memory out of 5000000
- 38351 multiletter control sequences out of 15000+600000
+ 15310 strings out of 473190
+ 261625 string characters out of 5715800
+ 683687 words of memory out of 5000000
+ 38354 multiletter control sequences out of 15000+600000
  594278 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,855b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,848b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fo
 ntawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fon
@@ -609,7 +603,7 @@ st/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public
 /lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9.
 pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (1 page, 156155 bytes).
+Output written on main.pdf (1 page, 157668 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
